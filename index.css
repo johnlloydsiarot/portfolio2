@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1 class="portfolio">PORTFOLIO.</a></h1> 
+    <h1><a class="aboutus" href="aboutus.html">ABOUT US</a></h1>
+    <h1><a class="contactus" href="contactus.html">CONTACT US</a></h1>
+    <h1><a class="services" href="services.html">SERVICES</a></h1>
+
+    <style>
+        body{
+            background-image: url("pic/1212.jpg");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            position: fixed;
+        }
+    </style>
+    <a href="shena.html"><img src="pic/shens.png" alt="" class="img"></a>
+    <a href="john.html"><img src="pic/daddy.png" alt="" class="img1"></a>
+</body>
+</html>
